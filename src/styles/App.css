@@ -14,8 +14,8 @@
 }
 
 .colorSquare {
-	height: 25%;
-	width: 25%;
+	height: 15rem;
+	width: 15rem;
 	border: 1px solid white;
 	display: flex;
 	align-items: center;
@@ -24,8 +24,8 @@
 }
 
 .colorTextField {
-	width: 25%;
-	height: 5%;
+	width: 15rem;
+	height: 2.5rem;
 	border: 1px solid white;
 	display: flex;
 	align-items: center;
