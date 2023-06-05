@@ -12,6 +12,7 @@ const ColorTextField = ({ color, setColor }: ColorTextFieldProps) => {
 	return (
 		<div className="colorTextField">
 			<input
+				autoFocus
 				value={color}
 				type="text"
 				placeholder="Add color name"
